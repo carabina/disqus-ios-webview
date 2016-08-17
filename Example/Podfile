@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DisqusWebViewController_Example' do
+  pod 'DisqusWebViewController', :path => '../'
+
+  target 'DisqusWebViewController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

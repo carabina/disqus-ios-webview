@@ -1,0 +1,16 @@
+PODS:
+  - DisqusWebViewController (0.1.0)
+
+DEPENDENCIES:
+  - DisqusWebViewController (from `../`)
+
+EXTERNAL SOURCES:
+  DisqusWebViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DisqusWebViewController: 8944ac1757084aa6b2557d1cdb5ea90399c3d4a9
+
+PODFILE CHECKSUM: 87de097a73f9e2a5fa9b3e18d52081e69fecf718
+
+COCOAPODS: 1.0.1
